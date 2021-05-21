@@ -9,7 +9,7 @@ import urllib.request
 
 
 # variables
-server = "chat.freenode.net" 
+server = "irc.libera.chat" 
 channel = "#demok8sws" 
 botnick = "pywpchksumbot"
 adminname = "wkandek" 
